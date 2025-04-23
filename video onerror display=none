@@ -1,0 +1,9 @@
+<!-- PC -->
+<video width="1140px" height="640px" muted="" autoplay="" loop="" controls="">
+    <source src="URL" onerror="parentNode.style.display='none';">
+</video>
+
+<!-- M -->
+<video width="100%" height="auto" loop="" controls="" muted="" preload="" poster="img URL">
+    <source src="URL" type="video/mp4" onerror="parentNode.style.display='none';"/>
+</video>
